@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.161
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{DF2ED660-2198-42BD-BCD3-6E097B7A1F81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CICDApi", "src\CICDApi\CICDApi.csproj", "{E758DF01-B429-4A3C-A4DD-514ACF36293A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E758DF01-B429-4A3C-A4DD-514ACF36293A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E758DF01-B429-4A3C-A4DD-514ACF36293A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E758DF01-B429-4A3C-A4DD-514ACF36293A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E758DF01-B429-4A3C-A4DD-514ACF36293A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E758DF01-B429-4A3C-A4DD-514ACF36293A} = {DF2ED660-2198-42BD-BCD3-6E097B7A1F81}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C620B69-B3D0-43B6-AB06-57E6D2973A46}
+	EndGlobalSection
+EndGlobal
